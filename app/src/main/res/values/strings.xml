@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Form_Pendaftaran_v2</string>
+    <string name="title">PENDAFTARAN</string>
+    <string name="namadepan">Nama Depan</string>
+    <string name="namablkng">Nama Belakang</string>
+    <string name="tmptlahir">Tempat Lahir</string>
+    <string name="address">Alamat</string>
+    <string name="gender">Jenis Kelamin</string>
+    <string name="laki">Laki-Laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="religion">Agama</string>
+    <string name="islam">Islam</string>
+    <string name="katolik">Katolik</string>
+    <string name="protestan">Protestan</string>
+    <string name="kristen">Kristen</string>
+    <string name="hindu">Hindu</string>
+    <string name="budha">Buddha</string>
+    <string name="konghucu">Konghucu</string>
+    <string name="akepercayaan">Aliran Kepercayaan</string>
+    <string name="tlp">Telepon</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="password2">Masukkan Password</string>
+    <string name="btn1">KEMBALI</string>
+    <string name="btnLogin">DAFTAR</string>
+    <string name="btn2">DAFTAR</string>
+    <string name="tdata">DAFTAR</string>
+    <string name="blue">DAFTAR</string>
+    <string name="tglahir">Tanggal Lahir</string>
+</resources>

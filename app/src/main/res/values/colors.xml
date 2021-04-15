@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="aqua">#20f8fc</color>
+    <color name="red">#fc2020</color>
+    <color name="yellow">#ffde26</color>
+    <color name="white">#ffffff</color>
+    <color name="hijau_muda">#81F79F</color>
+    <color name="blue">#81F79F</color>
+</resources>
